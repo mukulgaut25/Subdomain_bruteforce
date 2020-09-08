@@ -3,7 +3,11 @@
 ### whats this Subdomain bruteforcer do?
  This script helps to brute force the subdomain specified inside the file. We just have to specify the target domain name example www.sample.com
  and our own specified subdomain file where we only check for our specified subdomain.
+ 
+
  ![](/usage.png)
+
+
 
 Here I am using the shodan API to gather the information of the IP address and then using socket, able to find out about the open ports.
 
@@ -14,6 +18,7 @@ This script only takes two arguments first one is '-file' which is the subdomain
 The second argument is the -target domain name like sample.com
 
 Here in this script, i run on google.com with file name sub_domain.txt with few some real subdomain of google like mail, ads, and admin.
+
 
 ![](/usage1.png)
 
