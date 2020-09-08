@@ -27,6 +27,6 @@ After finding the subdomain which is active, this script also helps us to find o
 
 
 
-## Please do not try on google and on any other website, for which you don't have the authorisation to do so.
+## Please do not try on google and on any other website, for which you don't have the authorisation to do so I am not responsible for anything done by you.
 
 
